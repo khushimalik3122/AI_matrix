@@ -44,49 +44,49 @@ The goal is to build a framework that can help **interpret field conditions and 
 
 ---
 
-# 📊 Results & Demonstration
+# Results & Demonstration
 
 ### Application Screenshots
 
-![Screenshot 1](assets/screenshots/screenshot1.png)
+![Screenshot 1](<img width="3434" height="1769" alt="image" src="https://github.com/user-attachments/assets/09d854b0-0c49-4a37-96cd-4e2a4b6e50aa" />
+)
 
-![Screenshot 2](assets/screenshots/screenshot2.png)
+![Screenshot 2](<img width="3175" height="1404" alt="image" src="https://github.com/user-attachments/assets/44d70909-20fb-4fa0-a266-f15ab7a4e480" />
+)
 
----
-
-# 🏆 Certificates
-
-### Challenge Participation Certificate
-
-![Certificate 1](assets/certificates/certificate1.png)
-
-### Additional Achievement Certificate
-
-![Certificate 2](assets/certificates/certificate2.png)
 
 ---
 
-# 📑 Project Report
+# Certificates
+
+### Achievement Certificate
+
+![Certificate 2](<img width="2534" height="945" alt="image" src="https://github.com/user-attachments/assets/10f24878-58e6-41dd-a224-b7f69b22753f" />
+)
+
+---
+
+# Project Report
 
 A detailed report explaining the **methodology, dataset, model pipeline, and results** can be found here:
 
-📄 **Project Report**
+**Project Report**
 
 [Read the Full Report](report/project_report.pdf)
 
 ---
 
-# 🎥 Project Video
+# Project Video
 
 A full explanation and walkthrough of this project will be available on my YouTube channel.
 
-📺 **YouTube Video**
+**YouTube Video**
 
 (Video link will be added soon)
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository
 
