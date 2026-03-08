@@ -72,7 +72,7 @@ A detailed report explaining the **methodology, dataset, model pipeline, and res
 
 **Project Report**
 
-[Read the Full Report](report/project_report.pdf)
+[Read the Full Report](Complete-project-doc (1).pdf)
 
 ---
 
