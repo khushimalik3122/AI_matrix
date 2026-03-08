@@ -48,10 +48,10 @@ The goal is to build a framework that can help **interpret field conditions and 
 
 ### Application Screenshots
 
-![Screenshot 1](<img width="3434" height="1769" alt="image" src="https://github.com/user-attachments/assets/09d854b0-0c49-4a37-96cd-4e2a4b6e50aa" />
+(<img width="3434" height="1769" alt="image" src="https://github.com/user-attachments/assets/09d854b0-0c49-4a37-96cd-4e2a4b6e50aa" />
 )
 
-![Screenshot 2](<img width="3175" height="1404" alt="image" src="https://github.com/user-attachments/assets/44d70909-20fb-4fa0-a266-f15ab7a4e480" />
+(<img width="3175" height="1404" alt="image" src="https://github.com/user-attachments/assets/44d70909-20fb-4fa0-a266-f15ab7a4e480" />
 )
 
 
