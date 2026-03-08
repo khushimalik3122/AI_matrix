@@ -72,7 +72,7 @@ A detailed report explaining the **methodology, dataset, model pipeline, and res
 
 **Project Report**
 
-[Read the Full Report](Complete-project-doc (1).pdf)
+[Read the Full Report]((https://github.com/khushimalik3122/AI_matrix/blob/66a4ada5e986e9eb727bd8ba051f9933a8937221/Complete-project-doc%20(1).pdf))
 
 ---
 
