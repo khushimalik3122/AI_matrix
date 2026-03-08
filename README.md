@@ -61,7 +61,7 @@ The goal is to build a framework that can help **interpret field conditions and 
 
 ### Achievement Certificate
 
-![Certificate 2](<img width="2534" height="945" alt="image" src="https://github.com/user-attachments/assets/10f24878-58e6-41dd-a224-b7f69b22753f" />
+(<img width="2534" height="945" alt="image" src="https://github.com/user-attachments/assets/10f24878-58e6-41dd-a224-b7f69b22753f" />
 )
 
 ---
